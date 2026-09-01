@@ -1,0 +1,12 @@
+{
+  "name": "nissy-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website of Nissy Rechal Devarapalli",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
